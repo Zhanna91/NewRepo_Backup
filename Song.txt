@@ -7,3 +7,5 @@ The forth part of the song
 A new part
 
 A new part for a new branch
+
+Another new part for a new branch
