@@ -1,5 +1,7 @@
 The first part of the song
 The second part of the song
 The third part of the song
-The forth part of the song
+
 The fifth part of the song
+
+The seventh part of the song
