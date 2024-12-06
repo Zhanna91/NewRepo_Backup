@@ -1,11 +1,5 @@
 The first part of the song
 The second part of the song
 The third part of the song
-
 The forth part of the song
-
-A new part
-
-A new part for a new branch
-
-Another new part for a new branch
+The fifth part of the song
