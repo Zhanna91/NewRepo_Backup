@@ -5,3 +5,5 @@ The third part of the song
 The forth part of the song
 
 A new part
+
+A new part for a new branch
